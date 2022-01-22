@@ -21,24 +21,16 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      - item: Music
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Running
 
 career-profile:
     title: Career Profile
