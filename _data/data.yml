@@ -93,7 +93,7 @@ experiences:
         Invoicing;
         Public attendance
           
-     - role: Administrative Assistant
+    - role: Administrative Assistant
       time: 2014 - 2020
       company: Acredita IPSS, Viseu
       details: |
@@ -102,6 +102,8 @@ experiences:
         Bank reconciliation; 
         Coordination of curricular internship
         Coordination of professional internship
+
+
 
 skills:
     title: Skills &amp; Proficiency
